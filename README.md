@@ -4,8 +4,9 @@
 <h3 align="center">🌐 AI & Web3 Visionary | Full-Stack Developer | Digital Scientist</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=550&lines=👾+Exploring+Artificial+Intelligence;🔗+Building+on+Blockchain+Ecosystems;🧬+Bridging+Science+%26+Technology;🌌+Inventing+Future+Intelligence" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=550&lines=👾+Exploring+Artificial+Intelligence;🔗+Building+on+Blockchain+Ecosystems;🧬+Bridging+Science+%26+Technology;🌌+Inventing+Future+Intelligence" alt="Typing SVG" />
 </p>
+
 
 ---
 
@@ -48,10 +49,6 @@ Saya percaya bahwa teknologi bukan hanya alat, tetapi **bahasa masa depan** untu
 #### 🔹 **VirtualBioLab**
 > Laboratorium biologi interaktif berbasis web dengan simulasi ilmiah dan visualisasi 3D.  
 🧩 *Node.js · TypeScript · Express · PostgreSQL · WebGL*
-
-#### 🔹 **AI Defender Indonesia**
-> Sistem kecerdasan buatan untuk mendeteksi dan melindungi keamanan digital nasional.  
-🧠 *Python · LLM · FastAPI · Transformer Models*
 
 #### 🔹 **Blockchain Eduverse**
 > Platform edukasi interaktif Web3 untuk mengajarkan blockchain dan crypto dengan sistem NFT-based learning.  
