@@ -3,10 +3,6 @@
 <h1 align="center">🚀 <span style="color:#00d4ff">Ahmad Rasidi</span></h1>
 <h3 align="center">🌐 AI & Web3 Visionary | Full-Stack Developer | Digital Scientist</h3>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=550&lines=👾+Exploring+Artificial+Intelligence;🔗+Building+on+Blockchain+Ecosystems;🧬+Bridging+Science+%26+Technology;🌌+Inventing+Future+Intelligence" alt="Typing SVG" />
-</p>
-
 ---
 
 ### 🧭 Tentang Saya
@@ -83,16 +79,16 @@ Saya percaya bahwa teknologi bukan hanya alat, tetapi **bahasa masa depan** untu
 
 ### 🌐 Terhubung dengan Saya
 <p align="center">
-  <a href="mailto:rasidi@example.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/rasidi"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:rasidibasitt@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/Ahmad Rasidi"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/rasidi3112"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://x.com/rasidiofficial"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://x.com/EceRasidi"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
 ---
 
 ### 💖 Dukung Saya
-Jika kamu suka dengan proyek-proyek saya seperti **VirtualBioLab**, **AI Defender Indonesia**, atau **Blockchain Eduverse**,  
+Jika kamu suka dengan proyek-proyek saya seperti **VirtualBioLab**,
 beri ⭐️ di repositori dan bagikan semangat open-source ke seluruh dunia 🌍
 
 ---
