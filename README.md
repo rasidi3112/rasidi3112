@@ -65,7 +65,7 @@ Saya percaya bahwa teknologi bukan hanya alat, tetapi **bahasa masa depan** untu
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rasidi3112&bg_color=0D1117&color=00d4ff&line=00d4ff&point=FFFFFF&hide_border=true" />
-</p> ubah ini soalnya sekarang tahun 2025 bukan 2023
+</p>
 
 ---
 
