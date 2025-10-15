@@ -1,4 +1,4 @@
-<!-- 💫 Profil GitHub Ahmad Rasidi -->
+<!-- 💫 GitHub Profile Ahmad Rasidi -->
 
 <h1 align="center">🚀 <span style="color:#00d4ff">Ahmad Rasidi</span></h1>
 <h3 align="center">🌐 AI & Web3 | Full-Stack Developer | Digital Scientist</h3>
@@ -10,53 +10,53 @@
 
 ---
 
-### 🧭 Tentang Saya
-> “Kecerdasan buatan bukan hanya teknologi — ini adalah cermin dari peradaban manusia berikutnya🫰😊.”
+### 🧭 About Me
+> “Artificial intelligence is not just technology — it’s the mirror of the next human civilization 🫰😊.”
 
-Halo! Saya **Ahmad Rasidi**, seorang pengembang dan peneliti muda yang berfokus pada:
+Hello! I'm **Ahmad Rasidi**, a young developer and researcher focused on:
 - 🧠 **Artificial Intelligence** (Machine Learning, Neural Network, LLM)
 - 🌐 **Blockchain & Web3** (Smart Contract, dApp, DeFi)
 - 💻 **Web Development & Cloud Computing**
-- 🧬 **Tech for Science & Education** (seperti proyek **VirtualBioLab**)
+- 🧬 **Tech for Science & Education** (such as **VirtualBioLab** project)
 
-Saya percaya bahwa teknologi bukan hanya alat, tetapi **bahasa masa depan** untuk menulis ulang dunia.
+I believe that technology is not only a tool, but **the language of the future** to rewrite the world.
 
 ---
 
-### ⚙️ Keahlian Teknis
+### ⚙️ Technical Skills
 
-#### 🧠 Kecerdasan Buatan
-`Python` · `TensorFlow` · `PyTorch` · `LangChain` · `OpenAI API` · `NLP` · `Computer Vision`
+#### 🧠 Artificial Intelligence
+`Python` · `TensorFlow` · `PyTorch` · `LangChain` · `OpenAI API` · `NLP` ·
 
 #### 🌐 Blockchain & Web3
-`Solidity` · `Ethereum` · `Hardhat` · `Ethers.js` · `Web3.js` · `IPFS` · `Smart Contract Security`
+`Solidity` · `Ethereum` · `Hardhat` · `Ethers.js` · `Web3.js` · · `Smart Contract Security`
 
 #### 🧩 Web Development
 `Node.js` · `TypeScript` · `React` · `Next.js` · `Vite` · `Express` · `RESTful API` · `GraphQL`
 
-#### ☁️ Infrastruktur & DevOps
+#### ☁️ Infrastructure & DevOps
 `Docker` · `Linux` · `Nginx` · `AWS` · `Vercel` · `CI/CD` · `PostgreSQL` · `MongoDB`
 
-#### 🔤 Bahasa Pemrograman Favorit
+#### 🔤 Favorite Programming Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,solidity,go,java,cpp,html,css,react,nodejs,mongodb,postgres" />
 </p>
 
 ---
 
-### 🧬 Proyek Unggulan
+### 🧬 Featured Projects
 
 #### 🔹 **VirtualBioLab**
-> Laboratorium biologi interaktif berbasis web dengan simulasi ilmiah dan visualisasi 3D.  
+> A web-based interactive biology lab with scientific simulations and 3D visualization.  
 🧩 *Node.js · TypeScript · Express · PostgreSQL · WebGL*
 
 #### 🔹 **Blockchain Eduverse**
-> Platform edukasi interaktif Web3 untuk mengajarkan blockchain dan crypto dengan sistem NFT-based learning.  
+> An interactive Web3 education platform to teach blockchain and crypto with NFT-based learning system.  
 🔗 *Solidity · React · IPFS · Web3.js*
 
 ---
 
-### 📊 Statistik GitHub
+### 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rasidi3112&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="49%" />
@@ -69,8 +69,8 @@ Saya percaya bahwa teknologi bukan hanya alat, tetapi **bahasa masa depan** untu
 
 ---
 
-### 🧠 “Bahasa Mesin, Jiwa Manusia”
-> *“Jika otak manusia adalah hardware alami, maka AI adalah upaya kita menulis ulang perangkat lunak kesadaran.”*
+### 🧠 “Machine Language, Human Soul”
+> *“If the human brain is natural hardware, then AI is our effort to rewrite the software of consciousness.”*
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" />
@@ -78,7 +78,7 @@ Saya percaya bahwa teknologi bukan hanya alat, tetapi **bahasa masa depan** untu
 
 ---
 
-### 🌐 Terhubung dengan Saya
+### 🌐 Connect With Me
 <p align="center">
   <a href="mailto:rasidi.basit@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ahmad-rasidi-288b68341"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -88,14 +88,14 @@ Saya percaya bahwa teknologi bukan hanya alat, tetapi **bahasa masa depan** untu
 
 ---
 
-### 💖 Dukung Saya
-Jika kamu suka dengan proyek-proyek saya seperti **VirtualBioLab**, **AI Defender Indonesia**, atau **Blockchain Eduverse**,  
-beri ⭐️ di repositori dan bagikan semangat open-source ke seluruh dunia 🌍
+### 💖 Support Me
+If you enjoy my projects like **VirtualBioLab**, **math-genius-kids**, or **Blockchain Eduverse**,  
+leave a ⭐️ on the repositories and spread the open-source spirit across the world 🌍
 
 ---
 
-### 🪐 Kutipan Favorit
-> “Kita bukan hanya pengguna teknologi — kita adalah perancang masa depan.”
+### 🪐 Favorite Quote
+> “We are not just users of technology — we are the architects of the future.”
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=00d4ff&section=footer" />
