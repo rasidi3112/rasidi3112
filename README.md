@@ -11,23 +11,8 @@
 
 ### 💻Programming
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,solidity,go,java,cpp,html,css,react,nodejs,mongodb,postgres" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,solidity,go,java,cpp,html,css,react,nodejs,docker," />
 </p>
 
 ---
-### 🌌 Connect
-<p align="center">
-  <a href="mailto:rasidi.basit@gmail.com" style="font-size:36px; margin: 0 12px;">📧</a>
-  <a href="https://www.linkedin.com/in/ahmad-rasidi-288b68341" style="font-size:36px; margin: 0 12px;">💼</a>
-  <a href="https://github.com/rasidi3112" style="font-size:36px; margin: 0 12px;">🐙</a>
-  <a href="https://x.com/EceRasidi" style="font-size:36px; margin: 0 12px;">🐦</a>
-</p>
 
-
-
----
-
-### 🔮 Quote
-<p align="center">
-> “Code is not just instructions — it is the architecture of possible futures.”
-</p>
