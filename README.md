@@ -57,11 +57,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rasidi3112&theme=onestar&no-frame=true&column=7" />
-</p>
 
----
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rasidi3112/rasidi3112/main/assets/quantum-field.gif" width="100%" alt="Quantum Field Animation"/>
