@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/rasidi3112">
+  <a href="https://quantum-circuit-lab.netlify.app/">
     <img src="https://img.shields.io/badge/Quantum%20Lab%20Access%20→-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF" />
   </a>
 </p>
