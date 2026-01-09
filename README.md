@@ -20,7 +20,3 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=rasidi3112&label=Profile%20Views&color=6FA8DC&style=flat" alt="Profile view counter" />
 </p>
-
-## Visitors 
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rasidi3112)
