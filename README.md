@@ -1,4 +1,4 @@
-<!-- Quantum Portal Interface — Ahmadd Rasidii -->
+<!-- Quantum Portal Interface — Ahmad Rasidi -->
 
 <h1 align="">Hello, 👋 Ahmad Rasidi</h1>
 <h align="center">Quantum Computing • I Quantum Artificial-intelligence I • Young Researcher</h3>
